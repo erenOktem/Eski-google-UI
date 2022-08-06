@@ -1,3 +1,3 @@
 ## Google ilk hali
 
-Google 1998 linkinden Google'ın ilk versiyonu
+Google'ın 1998 yılındaki ilk versiyonu
